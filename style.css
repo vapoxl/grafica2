@@ -1,0 +1,11 @@
+header {
+    background-color: #0ffdfd; /* Cor de fundo ciano (lightcyan) */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #000000; /* Cor do texto (blak) */
+    font-family: 'Georgia', serif; /* Fonte  */
+    font-size: 6em; /* Tamanho da fonte maior */
+  }
